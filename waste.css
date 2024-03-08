@@ -1,0 +1,53 @@
+
+
+header{
+    text-align: center;
+}
+.nav {
+    background-color: rgb(251, 233, 197);
+    color: #fff;
+    padding: 0.5rem 1rem;
+    text-align: center; /*navigation bar*/
+    font-family: 'Arial Black'; 
+}
+nav a {
+    color: #95B9C7;
+    text-align: center;
+    text-decoration: none; 
+    margin: 10px;          
+    padding: 0.5rem 1rem;
+}
+
+nav a:hover {
+    color: black;
+    width: 15%;
+}
+h2{
+    text-align: left;
+}
+
+/*figure.item {
+    /* To correctly align image, regardless of content height: */
+    vertical-align: top;
+    display: inline-block;
+    /* To horizontally center images and caption */
+    text-align: center;
+    /* The width of the container also implies margin around the images. */
+    width: 120px;
+}
+/*.dem {
+    width: 300px;
+    height: 100px;
+    border-left: 15cap;
+    padding-left: 15.5%
+}
+.caption {
+    /* Make the caption a block so it occupies its own line. */
+    display: block;
+}
+
+
+.ki{
+    text-align: center;
+}
+
